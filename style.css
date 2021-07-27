@@ -3,7 +3,7 @@
     position: relative;
     height: 20vw;
     width: 20vw;
-    background: url(/clock-face.png) no-repeat;
+    background: url(clock-face.png) no-repeat;
     background-size: 100%;
 }
 
